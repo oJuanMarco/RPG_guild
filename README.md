@@ -68,7 +68,7 @@ GUILDARPG/
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/oJuanMarco/guildarpg
+git clone https://github.com/oJuanMarco/RPG_guild
 cd guildarpg
 python main.py
 ```
@@ -156,7 +156,7 @@ GUILDARPG/
 ## ▶️ How to run
 
 ```bash
-git clone https://github.com/oJuanMarco/guildarpg
+git clone https://github.com/oJuanMarco/RPG_guild
 cd guildarpg
 python main.py
 ```
