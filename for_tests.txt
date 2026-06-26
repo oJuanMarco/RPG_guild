@@ -1,0 +1,16 @@
+--imports--
+from classes.warrior import Guerreiro
+from classes.wizard import Mago
+from classes.archer import Arqueiro
+
+--instâncias--
+personagem1 = Guerreiro("Joe",10)
+personagem2 = Arqueiro("Cristina",15)
+personagem3 = Mago("Alan",5)
+guilda.adicionar_personagem(personagem1)
+guilda.adicionar_personagem(personagem2)
+guilda.adicionar_personagem(personagem3)
+personagem1.ativar_personagem()
+missao1 = Missao("Caça ao dragão","Mate o dragão", 10, 15)
+missao2 = Missao("Encontre Rose","Ache Rose e a leve de volta", 5, 1)
+missao3 = Missao("Caçador de 1º","Derrote seu 1º animigo", 20, 3)
